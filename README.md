@@ -1,4 +1,5 @@
 
+
 <!-- =============== HERO SECTION =============== -->
 
 <div align="center">
@@ -9,9 +10,10 @@
 
 <br/>
 
-<a href="https://github.com/shubhamvishwa007788">
+<a href="https://github.com/shubhamvishwa007788-hash">
 <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github"/>
 </a>
+
 <a href="https://www.linkedin.com/in/shubham-vishwakarma-528476390">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -74,8 +76,8 @@ Mission: Learn, Build & Innovate
 
 <div align="center">
 
-<a href="https://github.com/shubhamvishwa007788">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamvishwa007788&repo=shubhamportfolio&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/shubhamvishwa007788-hash/shubhamportfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamvishwa007788-hash&repo=shubhamportfolio&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
@@ -97,31 +99,27 @@ Mission: Learn, Build & Innovate
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubhamvishwa007788&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubhamvishwa007788-hash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamvishwa007788&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamvishwa007788-hash&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamvishwa007788&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamvishwa007788-hash&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-<!-- =============== 3D CONTRIBUTION SNAKE =============== -->
-
+<!-- =============== CONTRIBUTION SNAKE =============== -->
 
 <h2 align="center">🐍 MY CONTRIBUTION SNAKE</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shubhamvishwa007788-hash/shubhamvishwa007788/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/shubhamvishwa007788-hash/shubhamvishwa007788/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
-
-
-
 
 <!-- =============== ACHIEVEMENTS =============== -->
 
@@ -143,7 +141,7 @@ Mission: Learn, Build & Innovate
 
 <div align="center">
 
-<a href="https://github.com/shubhamvishwa007788">
+<a href="https://github.com/shubhamvishwa007788-hash">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -153,7 +151,7 @@ Mission: Learn, Build & Innovate
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=shubhamvishwa007788&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=shubhamvishwa007788-hash&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge"/>
 
 </div>
 
