@@ -111,15 +111,17 @@ Mission: Learn, Build & Innovate
 
 <!-- =============== 3D CONTRIBUTION SNAKE =============== -->
 
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
-<div align="center">
+<h2 align="center">🐍 MY CONTRIBUTION SNAKE</h2>
 
-<img src="https://raw.githubusercontent.com/shubhamvishwa007788/shubhamvishwa007788/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shubhamvishwa007788-hash/shubhamvishwa007788/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+</p>
 
 ---
+
+
+
 
 <!-- =============== ACHIEVEMENTS =============== -->
 
